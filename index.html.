@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weird Passionate World - Server Down Mind™</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            font-size: 50px;
+            margin-top: 100px;
+            text-shadow: 3px 3px red;
+        }
+        p {
+            font-size: 20px;
+        }
+        .buffer {
+            margin-top: 50px;
+            animation: blink 1s infinite;
+            color: yellow;
+            font-size: 25px;
+        }
+        @keyframes blink {
+            50% { opacity: 0; }
+            100% { opacity: 1; }
+        }
+        footer {
+            margin-top: 100px;
+            font-size: 15px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Server Down Mind™</h1>
+    <p>Welcome to my weird passionate world 🌎🔥</p>
+    <p>Random Thoughts | ML Projects | Weird Blogs</p>
+    <div class="buffer">Buffering... Thikka World Under Construction 💀🚨</div>
+    <footer>
+        Made by Wasim Akram | 2024 | Version 0.1
+    </footer>
+</body>
+</html>
